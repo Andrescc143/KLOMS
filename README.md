@@ -1,5 +1,3 @@
-# klemsan-documents-database
+# KLOMS: Company Latin-America Operations Management System
 
-Soy una prueba lo más de pro, entonces voy a hacer las cosas pro, porque las cosas pro son muy pro.
-
-#Usage
+Here will be the official documentation about the project
